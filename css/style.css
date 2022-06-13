@@ -1,0 +1,37 @@
+.lead{
+    font-size: 3rem;
+}
+
+.navbar{
+--bs-navbar-brand-color: rgba(210, 61, 61, 0.9);
+}
+
+.col-md-6 {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.col-12{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.col-md-4{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.col-md-2{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.fs-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.clearfix{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
